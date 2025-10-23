@@ -20,7 +20,7 @@ class Fish:
         print("fish")
 
 
-class Shark(Fish):
+class Shark:
     def type(self):
         print("shark")
 
